@@ -13,8 +13,8 @@ Scheduling sessions and keeping track of information for campaigns and oneshots 
 By 6/4:
 - [x] Initial project design
 - [x] Post in class channel
-- [ ] Initial ERD
-- [ ] Initial System Design
+- [x] Initial ERD
+- [x] Initial System Design
 
 By 6/7:
 - [ ] Initial layout/structure for the project
