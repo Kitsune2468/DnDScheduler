@@ -19,11 +19,11 @@ By 6/4:
 By 6/7:
 - [x] Initial layout/structure for the project
 - [x] Basic client terminal
-- [ ] Object models for
-  - [ ] User
-  - [ ] Character
-  - [ ] Campaign/Oneshot
-  - [ ] Session
+- [x] Object models for
+  - [x] User
+  - [x] Character
+  - [x] Campaign/Oneshot
+  - [x] Session
 
 By 6/11
 - [ ] Basic server
