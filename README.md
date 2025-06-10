@@ -18,7 +18,7 @@ By 6/4:
 
 By 6/7:
 - [x] Initial layout/structure for the project
-- [ ] Basic client terminal
+- [x] Basic client terminal
 - [ ] Object models for
   - [ ] User
   - [ ] Character
