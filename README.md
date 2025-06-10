@@ -17,7 +17,7 @@ By 6/4:
 - [x] Initial System Design
 
 By 6/7:
-- [ ] Initial layout/structure for the project
+- [x] Initial layout/structure for the project
 - [ ] Basic client terminal
 - [ ] Object models for
   - [ ] User
